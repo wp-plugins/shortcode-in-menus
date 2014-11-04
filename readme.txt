@@ -3,7 +3,7 @@ Contributors: gagan0123, saurabhshukla
 Tags: Shortcode, Menus, Custom Link
 Requires at least: 3.5
 Tested up to: 4.0
-Stable tag: 2.0
+Stable tag: 2.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -62,3 +62,6 @@ Also, see a [great tutorial](https://wordpress.org/support/topic/how-does-it-wor
 * Deprecated Links box basis.
 * Added screenshots
 * Updated readme and instructions
+
+= 2.1 =
+* Bug fix for custom links with ShortCode like structure not being displayed in the nav menus.
